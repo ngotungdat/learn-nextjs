@@ -32,6 +32,6 @@ export async function getStaticProps({ params }) {
 // }
 function TeacherDetail({ teacher }) {
     console.log(teacher);
-    // Render post...
+    // Render posts...
 }
 export default TeacherDetail
